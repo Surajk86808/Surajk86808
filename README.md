@@ -35,6 +35,15 @@ I'm passionate about building intelligent solutions that bridge the gap between 
 <a href="https://kubernetes.io" target="_blank">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </a>
+<a href="https://dagshub.com" target="_blank">
+  <img src="https://img.shields.io/badge/dagshub-8A2BE2?style=for-the-badge&logo=dagshub&logoColor=white" alt="DagsHub"/>
+</a>
+<a href="https://airflow.apache.org" target="_blank">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+</a>
+<a href="https://cloud.google.com" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+</a>
 
 
 ### 💻 Programming Languages
