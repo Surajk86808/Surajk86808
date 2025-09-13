@@ -38,10 +38,10 @@ I'm passionate about building intelligent solutions that bridge the gap between 
 
 ## 🎯 What I'm Currently Working On
 
-- 🔬 **Deep Learning Projects**: Building neural networks for computer vision and NLP
+- 🔬 **Deep Learning Projects**: Building neural networks for NLP
 - 🌐 **Full-Stack AI Apps**: Creating web applications with integrated ML models
 - 📊 **MLOps Pipelines**: Automating model training, testing, and deployment
-- 🏆 **Competitive Programming**: Solving algorithmic challenges in C and Python
+- 🏆 **Competitive Programming**: Solving algorithmic challenges in C++ and Python
 - 📝 **Tech Writing**: Sharing knowledge about AI and web development
 
 ---
