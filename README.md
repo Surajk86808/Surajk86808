@@ -15,6 +15,12 @@ I'm passionate about building intelligent solutions that bridge the gap between 
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<a href="https://matplotlib.org" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</a>
+<a href="https://seaborn.pydata.org" target="_blank">
+  <img src="https://img.shields.io/badge/seaborn-3776ab?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+</a>
  
 
 ### 🌐 Full-Stack Development
