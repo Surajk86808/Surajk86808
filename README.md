@@ -1,4 +1,4 @@
- # 👋 Hi there, I'm Suraj!
+# 👋 Hi there, I'm Suraj!
 
 ### 🚀 AI/ML Engineer | Full-Stack Developer | Problem Solver
 
@@ -88,10 +88,12 @@ I'm passionate about building intelligent solutions that bridge the gap between 
 
 ## 🎯 I'm Looking For
 
-- 🚀 **AI/ML Engineering Roles**: Where I can build intelligent systems at scale
-- 🌐 **Full-Stack Positions**: Combining my web development and AI skills
-- 🤝 **Collaboration Opportunities**: Open-source projects in AI and web development
-- 📚 **Mentorship**: Learning from experienced engineers and data scientists
+- 🚀 **MLOps Engineer Roles**: Building and scaling production ML systems with end-to-end automation
+- 🤖 **AI/ML Engineering Positions**: Where I can architect intelligent solutions from concept to deployment
+- 🌐 **Full-Stack ML Developer**: Combining advanced ML with modern web technologies and cloud infrastructure
+- 📊 **Data Engineering Opportunities**: Designing robust data pipelines and analytics platforms
+- 🤝 **Tech Lead Positions**: Leading ML projects with cross-functional teams and stakeholders
+- 🔬 **Research & Development**: Exploring cutting-edge AI applications in production environments
 
 ---
 
