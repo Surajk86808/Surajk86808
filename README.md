@@ -4,9 +4,12 @@
 
 I'm passionate about building intelligent solutions that bridge the gap between cutting-edge AI and seamless web experiences. From algorithmic problem-solving to deploying ML models in production, I love turning complex ideas into reality.
 
-<a href="https://protfolio-new-k2ih.vercel.app/" target="_blank">
+## Portfolio
+You can explore my projects and experience on my [Portfolio Website](<a href="https://protfolio-new-k2ih.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Protiflo-007BFF?style=for-the-badge&logo=cogs&logoColor=white" alt="Protiflo"/>
-</a>
+</a>).
+With Badges
+
 
 
 ---
