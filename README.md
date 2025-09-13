@@ -6,12 +6,9 @@ I'm passionate about building intelligent solutions that bridge the gap between 
 
 ## Portfolio
 
-You can explore my projects and experience on my [![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=cogs&logoColor=white)](https://protfolio-new-k2ih.vercel.app/).
+You can explore my projects and experience on my :-
 
-
-## Portfolio
-
-You can explore my projects and experience on my <a href="https://protfolio-new-k2ih.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=cogs&logoColor=white" alt="Portfolio" style="vertical-align: middle;"></a>.
+<a href="https://protfolio-new-k2ih.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=cogs&logoColor=white" alt="Portfolio" style="vertical-align: middle;"></a>.
 
 ---
 
