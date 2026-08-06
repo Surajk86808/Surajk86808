@@ -1,155 +1,135 @@
-# 👋 Hi there, I'm Suraj!
-
-### 🚀 AI/ML Engineer | Full-Stack Developer | Problem Solver
-
-I'm passionate about building intelligent solutions that bridge the gap between cutting-edge AI and seamless web experiences. From algorithmic problem-solving to deploying ML models in production, I love turning complex ideas into reality.
-
-## Portfolio
-
-You can explore my projects and experience on my Portfolio.
-
-<a href="https://protfolio-new-k2ih.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=cogs&logoColor=white" alt="Portfolio" style="vertical-align: middle;"></a>
-
----
-
-## 🛠️ When I code, I rely on
-
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-<a href="https://matplotlib.org" target="_blank">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-</a>
-<a href="https://seaborn.pydata.org" target="_blank">
-  <img src="https://img.shields.io/badge/seaborn-3776ab?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-</a>
- 
-
-### 🌐 Full-Stack Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<a href="https://fastapi.tiangolo.com" target="_blank">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</a>
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</a>
-<a href="https://kubernetes.io" target="_blank">
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</a>
-<a href="https://dagshub.com" target="_blank">
-  <img src="https://img.shields.io/badge/dagshub-8A2BE2?style=for-the-badge&logo=dagshub&logoColor=white" alt="DagsHub"/>
-</a>
-<a href="https://airflow.apache.org" target="_blank">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-</a>
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-</a>
-
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔬 **Deep Learning Projects**: Building neural networks for NLP
-- 🌐 **Full-Stack AI Apps**: Creating web applications with integrated ML models
-- 📊 **MLOps Pipelines**: Automating model training, testing, and deployment
-- 🏆 **Competitive Programming**: Solving algorithmic challenges in C++ and Python
-- 📝 **Tech Writing**: Sharing knowledge about AI and web development
-
----
-
-## 🏆 My Recent Projects
-
-### 🤖 Intelligent Web Applications
-- **Portfolio Website**: Responsive frontend showcasing my projects and skills
-- **Python Learning Hub**: Interactive tutorials and coding challenges
-- **C Programming Solutions**: Contest problems solved with optimized algorithms
-
-### 🧠 AI & Machine Learning
-- **NLP Text Analyzer**: Sentiment analysis and text classification models
-- **Computer Vision**: Image processing and object detection projects
-- **MLOps Pipeline**: End-to-end model deployment with monitoring
-
----
-
-## 📈 My GitHub Contributions Summary
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surajk86808&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Suraj's GitHub Stats" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Suraj%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Founder%2C%20NexviaTech%20%7C%20Agentic%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<a href="https://nexviatech.online">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Building+production+LLM+%26+agentic+systems;Multi-agent+pipelines+%C2%B7+RAG+%C2%B7+backend+infra+at+scale;Founder+%40+NexviaTech+%E2%80%94+Bengaluru%2C+India;BS+Data+Science+%40+IIT+Madras+(2027)" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://nexviatech.online"><img src="https://img.shields.io/badge/nexviatech.online-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suraj-y-756a11233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:surajk86808@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajk86808&theme=dark&hide_border=true" alt="Suraj's Contribution Streak" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajk86808&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+## About
 
----
+I design and ship **production AI systems** — multi-agent orchestration, RAG pipelines, and backend infrastructure that run unattended in real environments, not notebooks. As founder of **NexviaTech**, an AI automation and web development agency in Bengaluru, I build systems that generate and qualify leads, automate operational workflows, and process real client data at scale for teams across India, the US, and the Gulf.
 
-## 🌟 What Sets Me Apart
+Currently completing a **BS in Data Science & Applications at IIT Madras** (2027) alongside a B.Tech in Computer Science, while running engineering end-to-end for NexviaTech — architecture, infra, deployment, and client delivery.
 
-✨ **Problem-First Mindset**: I don't just code - I solve real-world problems  
-🚀 **Full-Stack AI**: From data preprocessing to web deployment  
-🏆 **Contest Experience**: Algorithmic thinking honed through competitive programming  
-📚 **Continuous Learner**: Always exploring new technologies and methodologies  
-🤝 **Collaboration Ready**: Experienced in team projects and open-source contributions  
+**Core strengths:** LLM orchestration & multi-agent design · retrieval and enrichment pipelines · async job orchestration (Celery/ARQ) · browser automation at scale · shipping from architecture to production deployment.
 
 ---
 
-## 🎯 I'm Looking For
+## Systems I've Built
 
-- 🚀 **MLOps Engineer Roles**: Building and scaling production ML systems with end-to-end automation
-- 🤖 **AI/ML Engineering Positions**: Where I can architect intelligent solutions from concept to deployment
-- 🌐 **Full-Stack ML Developer**: Combining advanced ML with modern web technologies and cloud infrastructure
-- 📊 **Data Engineering Opportunities**: Designing robust data pipelines and analytics platforms
-- 🤝 **Tech Lead Positions**: Leading ML projects with cross-functional teams and stakeholders
-- 🔬 **Research & Development**: Exploring cutting-edge AI applications in production environments
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ Hermes — Lead Generation & Outreach Engine
+Multi-agent pipeline covering intake, discovery, enrichment, and outreach across five international markets (US, UK, Canada, Australia, Saudi Arabia).
+- Telegram-based intake — Meta Ad Library scraping — dedup/enrichment via a dedicated Data Centre layer — personalized outreach across Email, WhatsApp, Instagram, Threads, and Telegram
+- Async job orchestration via Celery/BullMQ, Claude (Bedrock) for reasoning and personalization, Postgres/Neon for state
+
+`FastAPI` `Claude/Bedrock` `Postgres` `Celery` `Apify` `Playwright`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 StudyLink — Portal Automation at Scale
+Vision-driven browser automation for partner-portal login flows, built to survive hostile anti-bot defenses in production.
+- CDP-mode Chrome with persistent Playwright profiles to defeat session resets
+- Captcha resolution via hCaptcha-challenger with an AWS Bedrock Claude-vision fallback for edge cases
+
+`Python` `Playwright` `AWS Bedrock` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ GEW Intelligence OS — Call Intelligence Pipeline
+End-to-end intelligence layer built for a national EdTech coaching institute, turning raw sales calls into a queryable knowledge base.
+- Faster-Whisper transcription across 500+ Hinglish call recordings, Gemini-based reasoning enrichment, FastAPI query interface over vectorized call data
+
+`Faster-Whisper` `Gemini` `FastAPI` `Vector Search`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ NexusAPI — Multi-Tenant AI Backend
+Production backend serving multiple client tenants with metered access and isolated workloads.
+- Credit-based billing, Redis-backed rate limiting, ARQ async job queue, deployed on Google Cloud Run
+
+`FastAPI` `Redis` `ARQ` `Cloud Run` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More production work</b></summary>
+<br/>
+
+- **Simpero** — Contributed to an agentic deal-diligence platform for PE/M&A investors; diagnosed and resolved a LibreOffice cold-start bottleneck in the document ingestion pipeline, managed delivery via Linear and Notion.
+- **Document Parsing Benchmark Suite** — Built an 8-dimension weighted scoring framework comparing Docling, LlamaParse, Google Document AI, and Azure Document Intelligence, with a FastAPI/React evaluation dashboard.
+- **EVAA Enterprises** — Delivered a Next.js/Three.js marketing site with custom WebGL shader effects for a Singapore-based AI research firm.
+
+</details>
 
 ---
 
-## 📫 Let's Connect & Build Something Amazing!
+## Stack
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajk86808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-y-756a11233/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://protfolio-new-k2ih.vercel.app/)
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,gcp,aws,react,nextjs,typescript,git&theme=dark" />
+
+<br/><br/>
+
+**AI/LLM Infrastructure:** Claude (Bedrock) · Gemini · LangChain · LangGraph · RAG · Vector Search (Qdrant, Pinecone, FAISS)
+**Automation & Orchestration:** Playwright · Celery / ARQ / BullMQ · Apify
+**Backend & Data:** FastAPI · Django · PostgreSQL · Redis · SQLite
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surajk86808&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+## GitHub Activity
 
 <div align="center">
-  
-### 💡 "Every expert was once a beginner. Every pro was once an amateur."
-### 🚀 Ready to turn your ideas into intelligent solutions!
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Surajk86808&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajk86808&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajk86808&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<br/><br/>
+
+<!-- snake animation: see setup note below -->
+<img src="https://raw.githubusercontent.com/Surajk86808/Surajk86808/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
+> **Snake animation setup (one-time, ~2 min):** the snake graphic above renders once you add the workflow file below to this repo. It's a real animated SVG generated nightly from your live contribution graph — most profiles don't bother with it, which is exactly why it stands out.
 
 ---
 
-⭐ **If you find my work interesting, don't forget to star my repositories!**
+## Currently Building
+
+- **Hermes** — expanding multi-agent outreach coverage and token-efficiency tuning across long-running Claude Code sessions
+- Production hardening of automated captcha-resolution and browser-fingerprint resilience for client automation pipelines
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer" />
+</div>
