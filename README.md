@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Suraj%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Agentic%20Systems%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Suraj%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Agentic%20Systems%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Building+production+LLM+%26+agentic+systems;Multi-agent+pipelines+%C2%B7+RAG+%C2%B7+backend+infra+at+scale;Bengaluru%2C+India;BS+Data+Science+%40+IIT+Madras+(2027)" alt="Typing SVG" />
 
